@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#loginleft{
+    display: flex;
+    background-color: #7597BF;
+    color: #ffffff;
+    width: 50%;
+}
+#entrar{
+    display: flex;
+    justify-content: center;
+}
